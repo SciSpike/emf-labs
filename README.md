@@ -23,7 +23,7 @@ You have a couple of options:
 
 1. Read the files on GitHub
 2. Download a markdown reader/tool
-3. Install a markdown plugnin in Google Chrome and render them locally
+3. Install a markdown plugin in Google Chrome and render them locally
 
 For now, we'll just assume that you are reading this file on GitHuib and in that case, all the links to the labs below should work.
 

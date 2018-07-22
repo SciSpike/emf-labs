@@ -26,7 +26,10 @@ There may be some small differences between what you seen in these screen shots 
 
 ## Adding EMF to an existing installations
 
-TBD
+You can also add EMF to an existing eclipse installation.
+
+If you want to do so, please talk to your instructor as the way to do it may vary a bit from one Eclipse version to another.
+As this document is written, the correct URL for the update site of EMF is: http://download.eclipse.org/modeling/emf/updates/releases/
 
 # Stating Eclipse
 

@@ -1,5 +1,16 @@
 # Generate the music library
 
+## Prerequisites
+
+This lab assumes that you successfully created an ecore model in the previous exercise.
+
+If you didn't create the ecore model or for some other reason lost the ecore mode, we have a starting point for you.
+In the directory `<ECLIPSE_LABS>/labs/labfiles/` you should have an example of a music.ecore file.
+You would then have to get started with the following steps:
+
+1. Create an empty EMF project
+2. Import the music.ecore model into the model directory.
+
 ## Introduction
 
 In this exercise, our goals are to gain some experience with:
@@ -9,7 +20,7 @@ In this exercise, our goals are to gain some experience with:
 
 We'll use the `ecore` model from the last exercise as the input for the `genmodel`.
 
-Most of what we'll do in this exercise, you have done once before when we created the addressbook.
+Most of what we'll do in this exercise, you have done once before when we created the `addressbook`.
 
 ## 1. Create the `genmodel`
 

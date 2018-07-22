@@ -31,7 +31,7 @@ The next steps show you how to create the ecore model.
 
 ## 2. Create a new `ecore` model
 
-Right-click on the model folder and select `New` --> `Other`.
+Right-click on the `model` folder and select `New` --> `Other`.
 
 ![](pics/03_02_ecore-selection.png)
 
@@ -61,7 +61,8 @@ class diagram for the music library.
 
 ![](pics/03_05_model.png)
 
+
 ## Summary
 
 You should now have a working EMF model.
-We will need one more model to make it possible to generate something, but for now, we'll simply leave  the model intact.
+We will need one more model to make it possible to generate something, but for now, we'll simply leave  the model complete and move on to the genmodel.

@@ -31,7 +31,7 @@ For now, we'll just assume that you are reading this file on GitHuib and in that
 
 * Chapter 1: Course Overview
   * Introduction
-  * [Lab: Install Eclipse (if you have not already done soe)](labs/00_installation.md)
+  * [Lab: Install Eclipse (if you have not already done so)](labs/00_installation.md)
 * Chapter 2: Introduction to EMF
   * Eclipse Basics
   * A first example of an Eclipse Plugin and a typical Eclipse Plugin Architecture
@@ -39,7 +39,7 @@ For now, we'll just assume that you are reading this file on GitHuib and in that
   * EMF Overview
 * Chapter 3: Model Driven Development (MDD)
   * MDD overview
-  * Metamodeling
+  * Meta-modeling
 * Chapter 4: The Ecore Model
   * Purpose of Ecore
   * Different ways to create ecore models

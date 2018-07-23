@@ -54,7 +54,7 @@ For now, we'll just assume that you are reading this file on GitHuib and in that
   * Overriding generated code
   * Java Emitter Template (JET)
   * Other options for code generation
-  * [Lab: Generate code for the music library](labs/05_ModifyGenModel.md)
+  * [Lab: Modify the genmodel and regenerate code](labs/05_ModifyGenModel.md)
 * Chapter 7: EMF.model
   * What is the EMF.model?
   * EMF.model dependencies

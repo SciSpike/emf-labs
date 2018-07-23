@@ -10,7 +10,7 @@ Instead, we'll just explain the goals and let you try to figure out what options
 
 ## Step 1: Goal A
 
-Insert a copyright text for all the source code to "© <Your company name> <This Year>"
+Insert a copyright text for all the source code to ```"© <Your company name> <This Year>"```
 
 
 ## Step 2: Goal B
